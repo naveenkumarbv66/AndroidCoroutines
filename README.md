@@ -1,4 +1,4 @@
-AndroidCoroutines
+Android Coroutines
 =================
 
 A Jetpack Compose Android app demonstrating Kotlin Coroutines with Lifecycle, ViewModel (MVVM), WorkManager, and cancellation patterns.
